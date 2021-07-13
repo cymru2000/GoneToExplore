@@ -1,6 +1,5 @@
-baseurl = "https://username.github.io"
+baseurl = "gonetoexplore.com"
 DefaultContentLanguage = "en"
-#DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
