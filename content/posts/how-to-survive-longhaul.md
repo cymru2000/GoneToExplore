@@ -38,3 +38,4 @@ Long haul flying, especially in economy class, is often a difficult and tiring p
  Obviously nobody wants to be stuck in an airport any longer than necessary, but security and check in can take significantly longer than some people plan for. The other end of the flight can also take significantly longer than you would think, so be prepared for customs and immigration and add something identifiable onto your checked in luggage so that you can easily find it on the other side - but also so that others don't mistake your bag for theirs!
 
 Those are my top tips for surviving a long haul flight, if you have any suggestions of your own please add them in the comments and don't forget to like and subscribe for more videos like this.
+
