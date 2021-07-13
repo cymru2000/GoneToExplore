@@ -1,6 +1,6 @@
 ---
 title: "How to Survive Longhaul"
-date: 2021-07-13T15:59:28-08:00
+date: 2021-07-12T20:00:00-00:00
 ---
 
 Long haul flying, especially in economy class, is often a difficult and tiring process - however it doesn't need to be. Here are my top tips to getting the best out of long haul economy travel.
