@@ -3,13 +3,9 @@ languageCode = "en"
 title = "Gone to Explore"
 theme = "hugo-future-imperfect-slim"
 
-
-
-
-
 paginate                = 3
 disqusShortname         = ""
-googleAnalytics         = "279356435"
+googleAnalytics         = "G-FSMFF2RM7M"
 pluralizeListTitles     = false
 disableLanguages        = []
 
