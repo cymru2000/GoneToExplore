@@ -1,9 +1,15 @@
----
-title: How to Survive Long haul
-date: 2021-07-12T20:00:00.000+00:00
-featured_image: "/images/surviving-long-haul.jpg"
++++
+title = "How to Survive Long haul"
+description = "Long haul flying can be a pain, these tips should help make it a little more enjoyable"
+author = "Wayne"
+date = "2021-07-13"
+tags = ["flying", "tips"]
+[[images]]
+  src = "images/surviving-long-haul"
+  alt = "Surviving long haul"
+  stretch = "Vertical"
++++
 
----
 {{< youtube id="eny9cJB6q6U" autoplay="false" >}}
 
 Long haul flying, especially in economy class, is often a difficult and tiring process - however it doesn't need to be. Here are my top tips to getting the best out of long haul economy travel.
