@@ -5,7 +5,7 @@ author = "Wayne"
 date = "2021-07-13"
 tags = ["flying", "tips"]
 [[images]]
-  src = "images/surviving-long-haul"
+  src = "images/surviving-long-haul.jpg"
   alt = "Surviving long haul"
   stretch = "Vertical"
 +++
