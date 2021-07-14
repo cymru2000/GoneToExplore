@@ -9,7 +9,7 @@ theme = "hugo-future-imperfect-slim"
 
 paginate                = 3
 disqusShortname         = ""
-googleAnalytics         = ""
+googleAnalytics         = "G-FSMFF2RM7M"
 pluralizeListTitles     = false
 disableLanguages        = []
 
@@ -52,7 +52,7 @@ disableLanguages        = []
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
-    languageMenu        = true
+    languageMenu        = false
 
   [params.intro]
     header                = "Gone to explore"
@@ -68,7 +68,7 @@ disableLanguages        = []
       width               = ""
       alt                 = ""
   [params.sidebar]
-    about               = "This theme was developed for Hugo static site generator."
+    about               = ""
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
