@@ -2,3 +2,12 @@ baseURL = "https://gonetoexplore.com"
 languageCode = "en"
 title = "Gone to Explore"
 theme = "papermod"
+
+[params]
+env = "production"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = false
+hideSummary = true
