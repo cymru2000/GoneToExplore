@@ -9,7 +9,7 @@ theme = "hugo-future-imperfect-slim"
 
 paginate                = 3
 disqusShortname         = ""
-googleAnalytics         = "G-FSMFF2RM7M"
+googleAnalytics         = "279356435"
 pluralizeListTitles     = false
 disableLanguages        = []
 
