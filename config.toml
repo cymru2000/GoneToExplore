@@ -66,7 +66,7 @@ disableLanguages        = []
       src                 = "images/logo.png"
       shape               = "circle"
       width               = ""
-      alt                 = "
+      alt                 = ""
   [params.sidebar]
     about               = "This theme was developed for Hugo static site generator."
     postAmount          = 5
