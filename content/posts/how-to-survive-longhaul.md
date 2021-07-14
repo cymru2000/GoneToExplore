@@ -4,6 +4,8 @@ date: 2021-07-12T20:00:00.000+00:00
 featured_image: "/images/surviving-long-haul.jpg"
 
 ---
+{{< youtube id="eny9cJB6q6U" autoplay="false"}}
+
 Long haul flying, especially in economy class, is often a difficult and tiring process - however it doesn't need to be. Here are my top tips to getting the best out of long haul economy travel.
 
 **Seat Selection.** Make sure you book the right seats. Not all seats are built equally, and though sometimes they come at extra cost, front bulkhead seats and emergency exit seats often have greater legroom. You don't get anywhere to stow carry on though, so if you think you'll need regular access to items this may not be the solution for you.
