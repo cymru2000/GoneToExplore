@@ -48,14 +48,14 @@ disableLanguages        = []
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "Gone to explore"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
     languageMenu        = true
 
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
+    header                = "Gone to explore"
     paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
     rssIntro              = true
     socialIntro           = true
@@ -127,14 +127,6 @@ disableLanguages        = []
     url               = "categories"
     pre               = "<i class='fas fa-sitemap'></i>"
     weight            = 5
-
-  [[menu.main]]
-    name              = "Contact"
-    identifier        = "contact"
-    url               = "contact"
-    pre               = "<i class='far fa-envelope'></i>"
-    weight            = 6
-
 
 [social]
   # Coding Communities
