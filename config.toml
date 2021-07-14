@@ -10,4 +10,4 @@ ShowShareButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = false
-hideSummary = true
+hideSummary = false
