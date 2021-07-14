@@ -1,4 +1,4 @@
 baseURL = "https://gonetoexplore.com"
 languageCode = "en"
 title = "Gone to Explore"
-theme = "Hugo Future Imperfect Slim"
+theme = "hugo-future-imperfect-slim"
