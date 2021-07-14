@@ -4,7 +4,7 @@ date: 2021-07-12T20:00:00.000+00:00
 featured_image: "/images/surviving-long-haul.jpg"
 
 ---
-{{< youtube id="eny9cJB6q6U" autoplay="false"}}
+{{< youtube id="eny9cJB6q6U" autoplay="false" >}}
 
 Long haul flying, especially in economy class, is often a difficult and tiring process - however it doesn't need to be. Here are my top tips to getting the best out of long haul economy travel.
 
