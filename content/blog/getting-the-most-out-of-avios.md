@@ -57,3 +57,5 @@ It's not always a bargain though, the below flight in October between London Hea
 **Any tricks to saving even more Avios?** Actually, possibly. If we look at redeeming with a partner rather than British Airways direct, things become a little more interesting.
 
 For example, Madrid to New York is only 34,000 return plus fees making the entire trip only £480. However, getting to and from Madrid may make the the overall costs higher than flying direct - though if you live outside London, flights to Madrid can be less than £50 return with a low cost airline.
+
+We will update this article over time and try to keep the advice relevant.
