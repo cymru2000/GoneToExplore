@@ -43,16 +43,16 @@ However, companion vouchers are not as valuable for short haul flights, flying t
 **What's the best way to spend Avios?** Valuing Avios is fairly complicated, and [thepointsguy.co.uk](https://thepointsguy.co.uk/guide/uk-monthly-valuations/) has already done the heavy lifting so we will use their valuation here (as of publication Avios are worth 1.1p each). Using this valuation we can look at redemptions and decide whether Avios is the right choice.
 
 A very bad use of Avios is their wine club, for example, the below offer for 6 bottles of Malbec for 13,200 Avios seems fairly reasonable, but when converting Avios to pounds at the rate above, the true cost is £120 - or £20 a bottle. Tesco finest Argentinian Malbec is only £8 a bottle which would actually value the Avios at 0.36 per £1 spent, truly terrible.
-![Avios](images/avios-malbec.jpg) ![Tesco](images/tesco-malbec.jpg)
+![Avios](/images/avios-malbec.jpg) ![Tesco](/images/tesco-malbec.jpg)
 
 Reward Flight Savers are probably the best use of Avios though, with fees and taxes fixed you only really need to worry about the Avios being spent. 
 
 This weekend trip to New York in November, economy travel with refundable ticket and checked in luggage allowannce is 50,000 Avios plus £100, or £611.12 for cash. Using the value of Avios above, the total for the redemption flight is £554.55 (£454.44 Avios plus £100 fee's) which would save £56.57. This makes Avios actually worth 1.22 which is above the 1.1 benchmark above making this a good value flight. Throw in a companion voucher, and 2 people are able to fly to NYC from LHR for the equivalent of £650, which is a bargain.
 
-![Avios is a good deal](images/avios-gooddeal.jpg)
+![Avios is a good deal](/images/avios-gooddeal.jpg)
 
 It's not always a bargain though, the below flight in October between London Heathrow and Barcelona would cost 25,500 Avios plus £1 - which as valued above would be £233 worth of points. The exact same flight for cash, is only £156. This could be worthwhile with a companion voucher, but it's not as much of a saving as above.
-![Cash is cheaper](images/avios-baddeal.jpg)
+![Cash is cheaper](/images/avios-baddeal.jpg)
 
 **Any tricks to saving even more Avios?** Actually, possibly. If we look at redeeming with a partner rather than British Airways direct, things become a little more interesting.
 
