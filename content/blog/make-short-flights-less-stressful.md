@@ -1,7 +1,7 @@
 +++
 title = "How to Make Short Flights Less Stressful"
 author = "Elizabeth"
-date = "2021-07-163"
+date = "2021-07-16"
 tags = ["flying", "tips"]
 [[images]]
   src = "images/plane-window.jpg"
