@@ -22,4 +22,3 @@ In order to alleviate any fears or concerns about security before heading to the
 **How to Calm your Security Anxiety** There are plenty of reasons why you may get anxious before heading through security. The biggest reason may be worries about missing your flight if it takes too long. Now that a lot more people are traveling, really try to get to the airport more than two hours before a flight to ensure you’ll be okay with security. Double check that you have no contraband or anything that will set a machine off. And it’s okay if you’ve forgotten that your water bottle was still in there, it happens to all of us. Don’t let it ruin your trip. 
 
 Traveling should never cause anxiety, especially right when you start your journey. All it takes is a little planning beforehand to make your airport security experience run smooth and enjoyable. 
-
