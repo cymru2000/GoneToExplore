@@ -6,7 +6,7 @@ tags = ["flying", "tips"]
 [[images]]
   src = "images/plane-window.jpg"
   alt = "Surviving short haul"
-  stretch = "Horizontal"
+  stretch = "Vertical"
 +++
 Some people love flying… and some people don’t. No matter where you classify yourself, flying is still something we all do in order to see different parts of the world. Shorter flights — an hour or so — can be a lot more convenient than taking a train or renting a car. And probably more comfortable.  
 
