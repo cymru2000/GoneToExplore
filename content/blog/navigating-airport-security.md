@@ -8,7 +8,6 @@ tags = ["flying", "tips"]
   alt = "Airport Security"
   stretch = "Vertical"
 +++
-
 Airport security can be so hit or miss sometimes, to the point it will drive even the most seasoned traveler crazy! While everyone always seems to be in a rush or a bad mood, you all still have to go through the same process. That’s why doing some planning ahead of time will help you not worry nearly as much as you get ready to go through security. 
 
 In order to alleviate any fears or concerns about security before heading to the airport, keep reading to see the best suggestions that will help the experience go smoothly for you and your party!
