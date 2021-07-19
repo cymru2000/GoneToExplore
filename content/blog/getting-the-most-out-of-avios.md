@@ -54,6 +54,12 @@ This weekend trip to New York in November, economy travel with refundable ticket
 It's not always a bargain though, the below flight in October between London Heathrow and Barcelona would cost 25,500 Avios plus £1 - which as valued above would be £233 worth of points. The exact same flight for cash, is only £156. This could be worthwhile with a companion voucher, but it's not as much of a saving as above.
 ![Cash is cheaper](/images/avios-baddeal.jpg)
 
+Lookout for reward flight costs. British Airways now show the cheapest cash value for reward flights, which isn't always the best deal when spending Avios - in fact, spending fewer Avios but more cash will usually end up being cheaper overall. For example, a business class trip from London to Berlin would cost £318 in cash, or 16,250 Avios plus 50p - which is good value for the Avios (the total equivalen cost is £138.75). But should you choose to spend 7,250 Avios and £47.50 for the same flight, the total equivalent cost is only £127 - which for a buisiness class trip to Europe is very good value.
+
+![The right balance](images/balancing-avios.jpg)
+
+In short, you need to  work out your invidividual deal - as each flight will be different. It's worth working out how much a flight would cost you without Avios to help you decide whether the value being given by BA is right. Only you can decide then what level of Avios you are willing to spend compared to cash, as just because a ticket has the best value per Avios doesn't mean it will fit with your cash budget - sometimes it is worth substituting Avios value for a near free flight overall.
+
 **Any tricks to saving even more Avios?** Actually, possibly. If we look at redeeming with a partner rather than British Airways direct, things become a little more interesting.
 
 For example, Madrid to New York is only 34,000 return plus fees making the entire trip only £480. However, getting to and from Madrid may make the overall costs higher than flying direct - though if you live outside London, flights to Madrid can be less than £50 return with a low-cost airline.
