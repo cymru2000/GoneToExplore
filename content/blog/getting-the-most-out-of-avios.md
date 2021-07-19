@@ -56,7 +56,7 @@ It's not always a bargain though, the below flight in October between London Hea
 
 Lookout for reward flight costs. British Airways now show the cheapest cash value for reward flights, which isn't always the best deal when spending Avios - in fact, spending fewer Avios but more cash will usually end up being cheaper overall. For example, a business class trip from London to Berlin would cost £318 in cash, or 16,250 Avios plus 50p - which is good value for the Avios (the total equivalen cost is £138.75). But should you choose to spend 7,250 Avios and £47.50 for the same flight, the total equivalent cost is only £127 - which for a buisiness class trip to Europe is very good value.
 
-![The right balance](images/balancing-avios.jpg)
+![The right balance](/images/balancing-avios.jpg)
 
 In short, you need to  work out your invidividual deal - as each flight will be different. It's worth working out how much a flight would cost you without Avios to help you decide whether the value being given by BA is right. Only you can decide then what level of Avios you are willing to spend compared to cash, as just because a ticket has the best value per Avios doesn't mean it will fit with your cash budget - sometimes it is worth substituting Avios value for a near free flight overall.
 
