@@ -2,7 +2,7 @@
 title = "What is BA Reward Flight Saver?"
 description = "How to make best use of BA Reward Flight Saver"
 author = "Wayne"
-date = "2021-07-15"
+date = "2021-07-20"
 tags = ["flying", "tips", "rewards", "Avios"]
 [[images]]
   src = "images/rfs.jpg"
