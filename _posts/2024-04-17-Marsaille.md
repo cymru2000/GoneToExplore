@@ -1,5 +1,5 @@
 ---
-title: A Day in Marseille: Exploring the Heart of Provence
+title: A Day in Marseille - Exploring the Heart of Provence
 date: 2024-04-17 10:00:00 +0000
 categories: [Travel, Cities]
 tags: [City]     # TAG names should always be lowercase
