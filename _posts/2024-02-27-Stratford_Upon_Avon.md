@@ -1,5 +1,5 @@
 ---
-title: Walking through Stratford-upon-Avon to discover Shakespeare
+title: A Day Exploring Shakespeare's Stratford Upon Avon
 date: 2024-02-27 10:00:00 +0000
 categories: [Travel, Cities]
 tags: [City]     # TAG names should always be lowercase
@@ -7,8 +7,6 @@ description: A short trip around Stratford Upon Avon.
 comments: false
 ---
 {% include embed/youtube.html id='DR-F8FYcBJg' %}
-
-**Title: A Day Exploring Shakespeare's Stratford Upon Avon**
 
 Stratford Upon Avon holds a special place in English history, being the birthplace and final resting place of the legendary playwright William Shakespeare. On a recent trip, I had the opportunity to explore the town's historical sites and immerse myself in the rich cultural heritage it offers.
 
