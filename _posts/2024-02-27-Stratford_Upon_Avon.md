@@ -6,7 +6,7 @@ tags: [City]     # TAG names should always be lowercase
 description: A short trip around Stratford Upon Avon.
 comments: false
 ---
-{% include embed/{youtube}.html id='{DR-F8FYcBJg}' %}
+{% include embed/{youtube}.html id='DR-F8FYcBJg' %}
 
 **Title: A Day Exploring Shakespeare's Stratford Upon Avon**
 
