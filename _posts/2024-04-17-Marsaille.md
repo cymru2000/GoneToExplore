@@ -8,7 +8,7 @@ comments: false
 ---
 {% include embed/youtube.html id='1L0pU1ZaNJA' %}
 
-## Starting Our Journey at Le Vieux Port
+## Starting Our Journey
 
 Our day began at Le Vieux Port, or the Old Port in English, which served as our base for the day. This fantastic little tourist area, surprisingly not too busy, provided the perfect starting point for our adventure. We began by getting our bearings and then took the 55 bus for a 25-minute ride to Notre Dame de la Garde, our first stop.
 
